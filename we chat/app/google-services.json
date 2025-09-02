@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969387566246",
+    "project_id": "mywechat-982b1",
+    "storage_bucket": "mywechat-982b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969387566246:android:363a6725e0453b33fe4067",
+        "android_client_info": {
+          "package_name": "com.example.wechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgo3pyPHfJr3pgegYL1Mt75VqAPcWogUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
